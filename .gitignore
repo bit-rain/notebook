@@ -1,0 +1,5 @@
+# python ipynb dir
+.ipynb_checkpoints/
+
+#python
+*.pyc
